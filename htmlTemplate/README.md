@@ -16,6 +16,9 @@ Visual Studio Code で`!`と入力して候補が表示されたら`Enter`を押
 </html>
 ```
 1.<html lang="en">を削除
+
 2.<meta name="robots" content="noindex" /> を追加
+
  => 公開時に検索エンジンに表示されないようにする設定
+ 
 3.<title>の内容を変更
